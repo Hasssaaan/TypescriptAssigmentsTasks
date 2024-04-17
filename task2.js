@@ -1,0 +1,10 @@
+"use strict";
+let num1 = 10, num2 = 20;
+let sum = num1 + num2;
+let diff = num1 - num2;
+let mul = num1 * num2;
+let quot = num1 / num2;
+console.log(`Sum is ${sum}`);
+console.log(`DIFFERENCE iS ${diff}`);
+console.log(`MULTIPLICATION IS ${mul}`);
+console.log(`QUOTIENT IS ${quot}`);
